@@ -1,3 +1,3 @@
 def current_age_for_birth_year (birth_year)
-  birth_year = gets.to_i
+  put_via_redirect
 end
